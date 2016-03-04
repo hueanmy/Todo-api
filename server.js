@@ -14,7 +14,7 @@ var todos = [
 	},
 	{
 		id: 3,
-		description: 'go to school',
+		description: 'here comes the ',
 		completed: true
 	}
 ];
