@@ -14,7 +14,7 @@ var todos = [
 	},
 	{
 		id: 3,
-		description: 'here comes the ',
+		description: 'here comes the changes',
 		completed: true
 	}
 ];
